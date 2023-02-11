@@ -1,0 +1,1 @@
+"# NFT-minting"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/agucchristopher/NFT-minting.gitgit push -u origin main
